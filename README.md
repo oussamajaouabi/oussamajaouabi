@@ -1,8 +1,8 @@
-<h1 align="left">Hi👋 !, I'm Oussama</h1>
+<h1 align="center">Hi👋 !, I'm Oussama 😄</h1>
 
-- 🔭 I’m currently **a computer science engineering student** in the Faculty of Sciences of Tunis 🇹🇳
+- 🔭 I’m currently **a computer science engineering student** in the Faculty of Sciences of Tunis
 
-- 📫 How to reach me **oussama.jaouabi@etudiant-fst.utm.tn**
+- 📫 Reach me **oussama.jaouabi@etudiant-fst.utm.tn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
