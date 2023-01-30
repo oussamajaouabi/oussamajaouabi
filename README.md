@@ -1,14 +1,14 @@
 <i><h2 align="left"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px" width="30px"> !, I'm Oussama 😄</h2><i>
-  
-<p align="center">
+
+  <p align="center">&rarr; 🔭 I’m currently <b>a computer science engineering student</b> in the <b><a href="https://fst.rnu.tn/fr">Faculty of Sciences of Tunis</a></b></p>
+
+  <p align="center">
   <img src="https://img.shields.io/badge/Age-22-blue" />
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-brightgreen" /> <br>
   <img src="https://img.shields.io/badge/Lives-Tunisia-success" />
   <img src="https://img.shields.io/badge/Languages-English,%20French & %20Arabic-brightgreen" />
 </p>
-
-- 🔭 I’m currently **a computer science engineering student** in the **<a href="https://fst.rnu.tn/fr">Faculty of Sciences of Tunis</a>**
-
+  
 <i><h4 align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Connect with me :</h4></i>
 
 <p align="center">
