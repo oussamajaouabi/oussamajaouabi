@@ -1,6 +1,6 @@
-<i><p><h2 align="left"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px" width="30px"> !, I'm Oussama 😄</h2></p><i>
+<i><h2 align="left"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px" width="30px"> !, I'm Oussama 😄</h2><i>
   
-  <p align="center">
+ <p align="center">
 <img src="https://img.shields.io/badge/Age-22-blue" />
   <img src="https://img.shields.io/badge/Focus-Web%20Development-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Tunisia-success" />
