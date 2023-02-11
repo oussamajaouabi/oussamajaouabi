@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Age-22-blue" />
   <img src="https://img.shields.io/badge/Focus-Web%20Development-brightgreen" /> <br>
   <img src="https://img.shields.io/badge/Lives-Tunisia-red" />
-  <img src="https://img.shields.io/badge/Languages-English,%20French & %20Arabic-brightgreen" />
+  <img src="https://img.shields.io/badge/Languages-English,%20French & %20Arabic-yellow" />
 </p>
   
 <i><h4 align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Connect with me :</h4></i>
