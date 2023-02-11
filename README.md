@@ -43,9 +43,11 @@
 <p align="center">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" height="30px" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p> 
   <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oussamajaouabi&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="ovi" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oussamajaouabi&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="ovi" />
   </p>
   <p>
-    &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=oussamajaouabi&show_icons=true&locale=en&theme=highcontrast" alt="ovi" width="410" />
+    &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=oussamajaouabi&show_icons=true&locale=en&theme=codeSTACKr" alt="ovi" width="410" />
   </p>
 </p>
+  
+<hr>
