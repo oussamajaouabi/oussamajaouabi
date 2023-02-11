@@ -1,4 +1,4 @@
-<hr>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 <i><h2 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px" width="30px"> !, I'm Oussama <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height="30px" width="30px"> </h2><i>
 
   <p align="center"> <img src="https://media0.giphy.com/media/ZszS4te7HVm970pWPp/giphy.gif?cid=6c09b952i6andwevxmjllvbwpmjm7298js29qxus09qtuu9b&rid=giphy.gif&ct=s" height="50px" width="50px"> I’m currently <b>a computer science engineering student</b> in the <b><a href="https://fst.rnu.tn/fr">Faculty of Sciences of Tunis</a></b>  <img src="https://user-images.githubusercontent.com/47713668/124180781-52ad2b80-dad2-11eb-9abd-9e0f8d6bb6dd.gif" height="30px" width="30px"></p>
@@ -38,14 +38,12 @@
  </a> 
 </p> 
   
-  <hr>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
   
-<p align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" height="30px" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p> 
-  <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oussamajaouabi&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="ovi" />
-  </p>
-  <p>
-    &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=oussamajaouabi&show_icons=true&locale=en&theme=codeSTACKr" alt="ovi" width="410" />
-  </p>
+<p align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" height="30px" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p> 
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oussamajaouabi&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="ovi" /></p>
+  <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=oussamajaouabi&show_icons=true&locale=en&theme=codeSTACKr" alt="ovi" width="410" /></p>
+
 </p>
+
+    
