@@ -1,12 +1,12 @@
 <hr>
-<i><h2 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px" width="30px"> !, I'm Oussama 😄</h2><i>
+<i><h2 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px" width="30px"> !, I'm Oussama <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height="30px" width="30px"> </h2><i>
 
-  <p align="center"> 🔭 I’m currently <b>a computer science engineering student</b> in the <b><a href="https://fst.rnu.tn/fr">Faculty of Sciences of Tunis</a></b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" height="30px" width="30px"> </p>
+  <p align="center"> <img src="https://media0.giphy.com/media/ZszS4te7HVm970pWPp/giphy.gif?cid=6c09b952i6andwevxmjllvbwpmjm7298js29qxus09qtuu9b&rid=giphy.gif&ct=s" height="50px" width="50px"> I’m currently <b>a computer science engineering student</b> in the <b><a href="https://fst.rnu.tn/fr">Faculty of Sciences of Tunis</a></b>  <img src="https://user-images.githubusercontent.com/47713668/124180781-52ad2b80-dad2-11eb-9abd-9e0f8d6bb6dd.gif" height="30px" width="30px"></p>
 
   <p align="center">
   <img src="https://img.shields.io/badge/Age-22-blue" />
   <img src="https://img.shields.io/badge/Focus-Web%20Development-brightgreen" /> <br>
-  <img src="https://img.shields.io/badge/Lives-Tunisia-success" />
+  <img src="https://img.shields.io/badge/Lives-Tunisia-red" />
   <img src="https://img.shields.io/badge/Languages-English,%20French & %20Arabic-brightgreen" />
 </p>
   
