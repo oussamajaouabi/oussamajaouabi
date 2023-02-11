@@ -49,5 +49,3 @@
     &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=oussamajaouabi&show_icons=true&locale=en&theme=codeSTACKr" alt="ovi" width="410" />
   </p>
 </p>
-  
-<hr>
