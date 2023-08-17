@@ -50,11 +50,8 @@
 <p align="center">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" height="30px" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamajaouabi&layout=compact&theme=codeSTACKr" alt="ovi" height="180" />
-  <img width="75"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=oussamajaouabi&show_icons=true&theme=codeSTACKr" alt="ovi" height="180" />
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamajaouabi&layout=compact&theme=codeSTACKr" alt="ovi" height="180" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=oussamajaouabi&show_icons=true&theme=codeSTACKr" alt="ovi" height="180" />
 </p>
-
-
-    
