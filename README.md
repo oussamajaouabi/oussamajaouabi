@@ -17,7 +17,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src ="https://img.shields.io/badge/github-%23.svg?&style=for-the-badge&logo=github&logoColor=white%22&color=black">](https://github.com/oussamajaouabi) 
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/oussama-jaouabi)
 [<img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black" />](mailto:oussama.jaouabi@etudiant-fst.utm.tn) 📫
-
+<!--
 <i><h4 align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Languages and Tools :</h4></i>
 
 <p align="center"> 
@@ -44,7 +44,7 @@
 <p align="center">
  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>  &nbsp;&nbsp; <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a>
 </p> 
- 
+-->
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
   
 <p align="center">
