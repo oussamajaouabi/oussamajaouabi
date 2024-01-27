@@ -5,7 +5,7 @@
 
   <p align="center">
   <img src="https://img.shields.io/badge/Age-23-blue" />
-  <img src="https://img.shields.io/badge/Focus-Blockchain,%20Web%20&%20Mobile%20Development-brightgreen" /> <br>
+  <img src="https://img.shields.io/badge/Focus-Web%20&%20Mobile%20Development-brightgreen" /> <br>
   <img src="https://img.shields.io/badge/Lives-Tunisia-red" />
   <img src="https://img.shields.io/badge/Languages-English,%20French & %20Arabic-yellow" />
 </p>
